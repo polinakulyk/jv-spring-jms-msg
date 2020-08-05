@@ -1,0 +1,2 @@
+# jv-spring-jms-msg
+Following the official Spring guide to build an application that uses Spring’s JmsTemplate to post a single message and subscribes to it with a @JmsListener annotated method of a managed bean. Source: https://spring.io/guides/gs/messaging-jms/
